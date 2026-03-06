@@ -1,2 +1,2 @@
-# Gbuddigital
-GBud Digital — монтаж покрівлі, фасадів
+# Digital
+Digital-ціфрове будивництво
